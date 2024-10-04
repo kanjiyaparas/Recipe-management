@@ -9,7 +9,7 @@ const UploadWidget = ({ onImageUpload }) => {
     useEffect(() => {
         cloudinaryRef.current = window.cloudinary;
         widgetRef.current = cloudinaryRef.current.createUploadWidget({
-            cloudName: 'dkjpbjpm1',
+            cloudName: 'sanket12',
             upload_preset: 'plcy9ur1',
         }, function (error, result) {
             if (!error && result && result.event === "success") {
