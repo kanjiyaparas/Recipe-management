@@ -1,5 +1,10 @@
 # Let's Cook
 
+## Live Demo Link
+Frontend - https://recipe-management-three.vercel.app
+backend - https://recipe-management-vezv.onrender.com
+
+
 ## Features
 
 - **View Recipes:** See a list of recipes with brief details.
