@@ -1,7 +1,5 @@
 # Let's Cook
 
-### Welcome to Let's! This web application allows users to manage their recipes, including adding, editing, and deleting recipes, and saving other recipes.
-
 ## Features
 
 - **View Recipes:** See a list of recipes with brief details.
@@ -13,8 +11,6 @@
 
 ## Screenshots
 
-![img](https://i.postimg.cc/ZKVZ0031/Untitled-design.png)
-![img](https://i.postimg.cc/x16KsGmt/Untitled-design-1.png)
 ![img](https://i.postimg.cc/QtT1xRyy/Untitled-design-2.png)
 ![img](https://i.postimg.cc/wT34cBnK/Untitled-design-3.png)
 
@@ -59,15 +55,7 @@ Development Mode
 
 We welcome contributions from the community to help improve and expand the Let's Cook. Whether you're a seasoned developer or just starting out, there are several ways you can contribute.
 
-## Getting Started
 
-<ol>
-    <li>
-    Fork the project repository on GitHub.
-    </li>
-    <li>Clone your forked repository to your local machine.</li>
-    <li>Install the necessary dependencies using npm install.</li>
-</ol>
 
 ## Submitting a Pull Request
 
